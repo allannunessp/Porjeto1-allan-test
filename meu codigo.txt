@@ -4,3 +4,5 @@ Olá, meu nome é Allan
 Nova linha de atualização 2.0
 
 atualizando o código git 
+
+Teste de merger
